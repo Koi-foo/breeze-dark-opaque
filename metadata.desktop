@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=Breeze Dark Full Opaque
+Comment=Breeze Dark Opaque is a port of the Breeze Dark theme without transparency
+X-KDE-PluginInfo-Author=Koi
+X-KDE-PluginInfo-Email=eg.evgeniy@gmail.com
+X-KDE-PluginInfo-Name=Breeze-dark-full-opaque
+X-KDE-PluginInfo-Version=1.2
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
