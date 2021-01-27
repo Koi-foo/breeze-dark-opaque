@@ -42,7 +42,6 @@ Installation via [store.kde.org](https://store.kde.org/p/1424368)
 
 ## Changelog
 * New version v1.4
-Added textures for clock and calendar.
 
 * New version v1.3
 
